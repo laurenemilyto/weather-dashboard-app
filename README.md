@@ -1,11 +1,11 @@
 # web-design-challenge
 
 ### Web Dashboard Visualizations
-Used HTML, CSS, Bootstrap and Pandas to create a website displaying climate and weather data and visualizations, meeting the requirements below. 
+Used HTML, CSS, Bootstrap and Pandas to create a website displaying climate and weather data and visualizations. 
 
-Link: [GitHub pages](https://laurenemilyto.github.io/web-design-challenge/)
+Link: [laurenemilyto.github.io/web-design-challenge/](https://laurenemilyto.github.io/web-design-challenge/)
 
-### Website Requirements
+#### Website Requirements
 
 A landing page containing:
 
