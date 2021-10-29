@@ -3,7 +3,7 @@
 ### Web Dashboard Visualizations
 Used HTML, CSS, Bootstrap and Pandas to create a website displaying climate and weather data and visualizations. 
 
-Link: [laurenemilyto.github.io/web-design-challenge/](https://laurenemilyto.github.io/web-design-challenge/)
+Link: [https://laurenemilyto.github.io/weather-plotly-app/](https://laurenemilyto.github.io/weather-plotly-app/)
 
 #### Website Requirements
 
