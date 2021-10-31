@@ -1,4 +1,4 @@
-# web-design-challenge
+# Weather Plotly App
 
 ### Web Dashboard Visualizations
 Used HTML, CSS, Bootstrap and Pandas to create a website displaying climate and weather data and visualizations. 
